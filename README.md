@@ -8,3 +8,5 @@
 - 📫 How to reach me: me at davetang dot org
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I grew up in Papua New Guinea, specifically in [Bougainville Island](https://en.wikipedia.org/wiki/Bougainville_Island) and [Port Moresby](https://en.wikipedia.org/wiki/Port_Moresby)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=davetang)](https://github.com/anuraghazra/github-readme-stats)
