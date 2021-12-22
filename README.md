@@ -13,5 +13,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating reproducible documentation part 2](https://davetang.org/muse/2021/12/21/creating-reproducible-documentation-part-2/)
+- [Grepping a list with a list](https://davetang.org/muse/2021/12/08/grepping-a-list-with-a-list/)
+- [On blogging](https://davetang.org/muse/2021/09/18/on-blogging/)
+- [On learning](https://davetang.org/muse/2021/09/04/on-learning/)
+- [Add Docker to your toolkit](https://davetang.org/muse/2021/09/01/add-docker-to-your-toolkit/)
 <!-- BLOG-POST-LIST:END -->
 
