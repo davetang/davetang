@@ -3,9 +3,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The things that matter](https://davetang.org/muse/2023/07/14/the-things-that-matter/)
 - [Deciding which bioinformatics tool to use](https://davetang.org/muse/2023/07/12/deciding-which-bioinformatics-tool-to-use/)
 - [Maintaining a &lpar;bioinformatics&rpar; blog](https://davetang.org/muse/2023/07/05/maintaining-a-bioinformatics-blog/)
 - [Wrap and unwrap a line in Vim](https://davetang.org/muse/2023/07/02/wrap-and-unwrap-a-line-in-vim/)
 - [Amino acid quiz using Python](https://davetang.org/muse/2023/06/27/amino-acid-quiz-using-python/)
-- [Reading a list of files into a single R data frame](https://davetang.org/muse/2023/06/23/reading-list-of-files-into-single-r-data-frame/)
 <!-- BLOG-POST-LIST:END -->
