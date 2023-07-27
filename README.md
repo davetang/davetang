@@ -3,9 +3,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL about code snippets in RStudio](https://davetang.org/muse/2023/07/27/til-about-code-snippets-in-rstudio/)
 - [The tidyr pivot_longer and pivot_wider functions using base R](https://davetang.org/muse/2023/07/26/the-tidyr-pivot_longer-and-pivot_wider-functions-using-base-r/)
 - [The things that matter](https://davetang.org/muse/2023/07/14/the-things-that-matter/)
 - [Deciding which bioinformatics tool to use](https://davetang.org/muse/2023/07/12/deciding-which-bioinformatics-tool-to-use/)
 - [Maintaining a &lpar;bioinformatics&rpar; blog](https://davetang.org/muse/2023/07/05/maintaining-a-bioinformatics-blog/)
-- [Wrap and unwrap a line in Vim](https://davetang.org/muse/2023/07/02/wrap-and-unwrap-a-line-in-vim/)
 <!-- BLOG-POST-LIST:END -->
