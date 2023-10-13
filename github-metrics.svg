@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4057 Commits
+                            4059 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.01387710786142" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="196.01387710786142" y="0" width="119.67678892545719" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="315.6906660333186" y="0" width="72.45706239609135" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="388.14772842941" y="0" width="38.911071149865975" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="427.05879957927596" y="0" width="12.454789129033353" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="439.5135887083093" y="0" width="7.633240593085197" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="447.1468293013945" y="0" width="7.056153089268143" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="454.20298239066267" y="0" width="5.7970176093373595" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="198.6165812377851" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="198.6165812377851" y="0" width="118.49686602125378" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="317.11344725903894" y="0" width="71.74269039246333" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="388.85613765150225" y="0" width="38.527437326724105" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="427.38357497822636" y="0" width="12.331994298955452" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="439.71556927718177" y="0" width="7.557982596192529" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="447.27355187337434" y="0" width="6.986584740047319" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.26013661342165" y="0" width="5.7398633865783575" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -397,7 +397,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 286k out of 121m users</span>
+                                    <span class="gh">ranked 286k out of 119m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">76</div>
                                     </div>
@@ -529,7 +529,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 22.2k out of 121m users</span>
+                                    <span class="gh">ranked 22.2k out of 119m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">341</div>
                                     </div>
@@ -585,7 +585,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="22.21666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="22.733333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -607,10 +607,10 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">243</div>
+                                        <div class="value">244</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 243 times</div>
+                                <div class="text">Repositories have been deployed 244 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -654,7 +654,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 289k out of 62.4m repositories</span>
+                                    <span class="gh">ranked 289k out of 57.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">41</div>
                                     </div>
@@ -729,7 +729,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 276k out of 62.4m repositories</span>
+                                    <span class="gh">ranked 276k out of 57.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">124</div>
                                     </div>
@@ -975,7 +975,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Oct 2023, 10:26:55 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Oct 2023, 11:13:00 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
