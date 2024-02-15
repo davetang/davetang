@@ -5,9 +5,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Check when install.packages fails in R](https://davetang.org/muse/2024/02/15/check-when-install-packages-fails-in-r/)
 - [Testing Singularity builds](https://davetang.org/muse/2024/02/14/testing-singularity-builds/)
 - [Running RStudio Server with Singularity](https://davetang.org/muse/2024/02/09/running-rstudio-server-with-singularity/)
 - [Building Singularity images in layers](https://davetang.org/muse/2024/02/08/building-singularity-images-in-layers/)
 - [Download from the SRA using ffq &lpar;and ffs&rpar;](https://davetang.org/muse/2023/08/17/download-from-the-sra-using-ffq-and-ffs/)
-- [TIL about code snippets in RStudio](https://davetang.org/muse/2023/07/27/til-about-code-snippets-in-rstudio/)
 <!-- BLOG-POST-LIST:END -->
