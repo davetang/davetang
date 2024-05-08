@@ -5,9 +5,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Naming variables and functions](https://davetang.org/muse/2024/05/08/naming-variables-and-functions/)
 - [Teaching an old bioinformatician new tricks](https://davetang.org/muse/2024/05/02/teaching-an-old-bioinformatician-new-tricks/)
 - [Downloading data from Zenodo using zenodo_get](https://davetang.org/muse/2024/04/12/downloading-data-from-zenodo-using-zenodo_get/)
 - [Making precision medicine knowledge available for everyone](https://davetang.org/muse/2024/03/08/making-precision-medicine-knowledge-available-for-everyone/)
 - [Domain and hosting renewed until 2026](https://davetang.org/muse/2024/03/06/domain-and-hosting-renewed-until-2026/)
-- [Check when install.packages fails in R](https://davetang.org/muse/2024/02/15/check-when-install-packages-fails-in-r/)
 <!-- BLOG-POST-LIST:END -->
