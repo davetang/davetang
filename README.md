@@ -5,9 +5,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What fraction of 10x reads map to ribosomal proteins?](https://davetang.org/muse/2024/05/22/what-fraction-of-10x-reads-map-to-ribosomal-proteins/)
 - [How and where to get information?](https://davetang.org/muse/2024/05/14/how-and-where-to-get-information/)
 - [Naming variables and functions](https://davetang.org/muse/2024/05/08/naming-variables-and-functions/)
 - [Teaching an old bioinformatician new tricks](https://davetang.org/muse/2024/05/02/teaching-an-old-bioinformatician-new-tricks/)
 - [Downloading data from Zenodo using zenodo_get](https://davetang.org/muse/2024/04/12/downloading-data-from-zenodo-using-zenodo_get/)
-- [Making precision medicine knowledge available for everyone](https://davetang.org/muse/2024/03/08/making-precision-medicine-knowledge-available-for-everyone/)
 <!-- BLOG-POST-LIST:END -->
