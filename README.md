@@ -5,9 +5,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prevent download errors in R by increasing the timeout](https://davetang.org/muse/2024/05/30/prevent-download-errors-in-r-by-increasing-the-timeout/)
 - [Getting something to work once is not hard](https://davetang.org/muse/2024/05/27/getting-something-to-work-once-is-not-hard/)
 - [What fraction of 10x reads map to ribosomal proteins?](https://davetang.org/muse/2024/05/22/what-fraction-of-10x-reads-map-to-ribosomal-proteins/)
 - [How and where to get information?](https://davetang.org/muse/2024/05/14/how-and-where-to-get-information/)
 - [Naming variables and functions](https://davetang.org/muse/2024/05/08/naming-variables-and-functions/)
-- [Teaching an old bioinformatician new tricks](https://davetang.org/muse/2024/05/02/teaching-an-old-bioinformatician-new-tricks/)
 <!-- BLOG-POST-LIST:END -->
