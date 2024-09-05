@@ -5,9 +5,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The potato paradox](https://davetang.org/muse/2024/09/05/the-potato-paradox/)
 - [Rate limited by GitHub when using remotes::install_github&lpar;&rpar;](https://davetang.org/muse/2024/08/23/rate-limited-by-github-when-using-remotesinstall_github/)
 - [Check what genes are correlated to your gene of interest](https://davetang.org/muse/2024/08/10/check-what-genes-are-correlated-to-your-gene-of-interest/)
 - [Split a multi-valued column into multiple columns](https://davetang.org/muse/2024/08/10/split-a-multi-valued-column-into-multiple-columns/)
 - [Find out which function is being used in R](https://davetang.org/muse/2024/06/06/find-out-which-function-is-being-used-in-r/)
-- [Prevent download errors in R by increasing the timeout](https://davetang.org/muse/2024/05/30/prevent-download-errors-in-r-by-increasing-the-timeout/)
 <!-- BLOG-POST-LIST:END -->
