@@ -5,9 +5,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting stuff done](https://davetang.org/muse/2024/09/23/getting-stuff-done/)
 - [The potato paradox](https://davetang.org/muse/2024/09/05/the-potato-paradox/)
 - [Rate limited by GitHub when using remotes::install_github&lpar;&rpar;](https://davetang.org/muse/2024/08/23/rate-limited-by-github-when-using-remotesinstall_github/)
 - [Check what genes are correlated to your gene of interest](https://davetang.org/muse/2024/08/10/check-what-genes-are-correlated-to-your-gene-of-interest/)
 - [Split a multi-valued column into multiple columns](https://davetang.org/muse/2024/08/10/split-a-multi-valued-column-into-multiple-columns/)
-- [Find out which function is being used in R](https://davetang.org/muse/2024/06/06/find-out-which-function-is-being-used-in-r/)
 <!-- BLOG-POST-LIST:END -->
