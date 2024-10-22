@@ -5,9 +5,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An example RNA-seq count table](https://davetang.org/muse/2024/10/22/an-example-rna-seq-count-table/)
 - [14th Anniversary](https://davetang.org/muse/2024/10/01/14th-anniversary/)
 - [Getting stuff done](https://davetang.org/muse/2024/09/23/getting-stuff-done/)
 - [The potato paradox](https://davetang.org/muse/2024/09/05/the-potato-paradox/)
 - [Rate limited by GitHub when using remotes::install_github&lpar;&rpar;](https://davetang.org/muse/2024/08/23/rate-limited-by-github-when-using-remotesinstall_github/)
-- [Check what genes are correlated to your gene of interest](https://davetang.org/muse/2024/08/10/check-what-genes-are-correlated-to-your-gene-of-interest/)
 <!-- BLOG-POST-LIST:END -->
