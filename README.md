@@ -5,9 +5,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Running a fork bomb](https://davetang.org/muse/2024/11/01/running-a-fork-bomb/)
 - [An example differential gene expression results table](https://davetang.org/muse/2024/10/31/an-example-differential-gene-expression-results-table/)
 - [An example RNA-seq count table](https://davetang.org/muse/2024/10/22/an-example-rna-seq-count-table/)
 - [14th Anniversary](https://davetang.org/muse/2024/10/01/14th-anniversary/)
 - [Getting stuff done](https://davetang.org/muse/2024/09/23/getting-stuff-done/)
-- [The potato paradox](https://davetang.org/muse/2024/09/05/the-potato-paradox/)
 <!-- BLOG-POST-LIST:END -->
