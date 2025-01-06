@@ -5,9 +5,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gene Set Variation Analysis](https://davetang.org/muse/2025/01/06/gene-set-variation-analysis/)
+- [Using the GenomicDataCommons package](https://davetang.org/muse/2025/01/06/using-the-genomicdatacommons-package/)
+- [Downloading molecular signatures from MSigDB in R](https://davetang.org/muse/2025/01/06/downloading-molecular-signatures-from-msigdb-in-r/)
 - [Ensembl Gene IDs to gene symbols](https://davetang.org/muse/2024/11/14/ensembl-gene-ids-to-gene-symbols/)
 - [Running a fork bomb](https://davetang.org/muse/2024/11/01/running-a-fork-bomb/)
-- [An example differential gene expression results table](https://davetang.org/muse/2024/10/31/an-example-differential-gene-expression-results-table/)
-- [An example RNA-seq count table](https://davetang.org/muse/2024/10/22/an-example-rna-seq-count-table/)
-- [14th Anniversary](https://davetang.org/muse/2024/10/01/14th-anniversary/)
 <!-- BLOG-POST-LIST:END -->
