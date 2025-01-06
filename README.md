@@ -5,9 +5,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL about Yan, an open source alternative to ChatGPT](https://davetang.org/muse/2025/01/06/til-about-yan-an-open-source-alternative-to-chatgpt/)
 - [Gene Set Variation Analysis](https://davetang.org/muse/2025/01/06/gene-set-variation-analysis/)
 - [Using the GenomicDataCommons package](https://davetang.org/muse/2025/01/06/using-the-genomicdatacommons-package/)
 - [Downloading molecular signatures from MSigDB in R](https://davetang.org/muse/2025/01/06/downloading-molecular-signatures-from-msigdb-in-r/)
 - [Ensembl Gene IDs to gene symbols](https://davetang.org/muse/2024/11/14/ensembl-gene-ids-to-gene-symbols/)
-- [Running a fork bomb](https://davetang.org/muse/2024/11/01/running-a-fork-bomb/)
 <!-- BLOG-POST-LIST:END -->
