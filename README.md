@@ -5,9 +5,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git stash](https://davetang.org/muse/2025/03/31/git-stash/)
 - [Thoughts on AI](https://davetang.org/muse/2025/03/07/thoughts-on-ai/)
 - [TIL about Open WebUI](https://davetang.org/muse/2025/02/28/til-about-open-webui/)
 - [TIL about Ollama and DeepSeek](https://davetang.org/muse/2025/01/28/til-about-ollama-and-deepseek/)
 - [TIL about Jan, an open source alternative to ChatGPT](https://davetang.org/muse/2025/01/06/til-about-jan-an-open-source-alternative-to-chatgpt/)
-- [Gene Set Variation Analysis](https://davetang.org/muse/2025/01/06/gene-set-variation-analysis/)
 <!-- BLOG-POST-LIST:END -->
