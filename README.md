@@ -5,9 +5,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One tip per day](https://davetang.org/muse/2025/05/14/one-tip-per-day/)
 - [Doing the same thing over and over](https://davetang.org/muse/2025/04/24/doing-the-same-thing-over-and-over/)
 - [Git stash](https://davetang.org/muse/2025/03/31/git-stash/)
 - [Thoughts on AI](https://davetang.org/muse/2025/03/07/thoughts-on-ai/)
 - [TIL about Open WebUI](https://davetang.org/muse/2025/02/28/til-about-open-webui/)
-- [TIL about Ollama and DeepSeek](https://davetang.org/muse/2025/01/28/til-about-ollama-and-deepseek/)
 <!-- BLOG-POST-LIST:END -->
