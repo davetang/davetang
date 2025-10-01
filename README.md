@@ -5,9 +5,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [15th Anniversary](https://davetang.org/muse/2025/10/01/15th-anniversary/)
 - [On professionalism](https://davetang.org/muse/2025/08/30/on-professionalism/)
 - [Hosting your own Git repositories](https://davetang.org/muse/2025/08/14/hosting-your-own-git-repositories/)
 - [How long does it take to run gpt-oss:20b?](https://davetang.org/muse/2025/08/10/how-long-does-it-take-to-run-gpt-oss20b/)
 - [Retrieval-Augmented Generation](https://davetang.org/muse/2025/05/27/retrieval-augmented-generation/)
-- [One tip per day](https://davetang.org/muse/2025/05/14/one-tip-per-day/)
 <!-- BLOG-POST-LIST:END -->
