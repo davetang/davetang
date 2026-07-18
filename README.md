@@ -5,9 +5,9 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bioinformatics and AI](https://davetang.org/muse/2026/07/18/bioinformatics-and-ai/)
 - [Getting locked in](https://davetang.org/muse/2026/06/25/getting-locked-in/)
 - [Organic](https://davetang.org/muse/2026/05/09/organic/)
 - [State of the Blog](https://davetang.org/muse/2026/02/06/state-of-the-blog/)
 - [15th Anniversary](https://davetang.org/muse/2025/10/01/15th-anniversary/)
-- [On professionalism](https://davetang.org/muse/2025/08/30/on-professionalism/)
 <!-- BLOG-POST-LIST:END -->
